@@ -103,5 +103,3 @@
        }
    }
    ```
-
-# Cookie&Session
