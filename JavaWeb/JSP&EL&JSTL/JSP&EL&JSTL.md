@@ -193,3 +193,4 @@ pageContext
   <c:forEach begin="1" end="10" var="i" step="2"></c:forEach>
   <c:forEach var="user" items="${list}"></c:forEach> 目标是items，要用EL表达式，存储到user里
   ```
+  - 一个并没有用到以上的小练习。。。[小练习](https://github.com/Icenodb/Java_Practice/tree/master/JavaWeb/JSP%26EL%26JSTL/%E5%B0%8F%E7%BB%83%E4%B9%A0)
