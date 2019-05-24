@@ -1,6 +1,6 @@
  Scanner in=new Scanner(System.in);
         System.out.println("请输入数字：");
-        String input=in.nextLine();
+        String input=in.nextLine(); //间隔用英文逗号
         String[] arry=input.split(",");
         int[] nums=new int[arry.length];
         for(int i=0;i<nums.length;i++){
