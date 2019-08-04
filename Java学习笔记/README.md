@@ -1,1 +1,0 @@
-各个车型都继承自Car类，Bus是大巴，EnglishPick是美式皮卡，HighsidedTruck是高栏车，JapanPick是日式皮卡，LowsidedTruck是低栏车，Minibus是面包车，Sedancar是小轿车，Van是厢式车，CarRental是租车系统
