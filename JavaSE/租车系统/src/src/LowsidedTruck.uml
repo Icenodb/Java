@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>src.LowsidedTruck</OriginalElement>
+  <nodes>
+    <node x="756.0" y="261.0">src.SedanCar</node>
+    <node x="633.25" y="0.0">src.Car</node>
+    <node x="576.0" y="261.0">src.JapanPick</node>
+    <node x="1246.0" y="261.0">src.EnglishPick</node>
+    <node x="357.00000000000006" y="261.0">src.HighsidedTruck</node>
+    <node x="935.0" y="261.0">src.Minibus</node>
+    <node x="215.0" y="261.0">src.Van</node>
+    <node x="1106.0" y="261.0">src.Bus</node>
+    <node x="0.0" y="261.0">src.LowsidedTruck</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="src.LowsidedTruck" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="97.5" y="211.0" />
+      <point x="647.3125" y="211.0" />
+      <point x="-98.4375" y="95.5" />
+    </edge>
+    <edge source="src.Minibus" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="1010.5" y="231.0" />
+      <point x="787.9375" y="231.0" />
+      <point x="42.1875" y="95.5" />
+    </edge>
+    <edge source="src.EnglishPick" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="1331.0" y="211.0" />
+      <point x="844.1875" y="211.0" />
+      <point x="98.4375" y="95.5" />
+    </edge>
+    <edge source="src.Bus" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="1166.0" y="221.0" />
+      <point x="816.0625" y="221.0" />
+      <point x="70.3125" y="95.5" />
+    </edge>
+    <edge source="src.JapanPick" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="656.0" y="241.0" />
+      <point x="731.6875" y="241.0" />
+      <point x="-14.0625" y="95.5" />
+    </edge>
+    <edge source="src.SedanCar" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="835.5" y="241.0" />
+      <point x="759.8125" y="241.0" />
+      <point x="14.0625" y="95.5" />
+    </edge>
+    <edge source="src.HighsidedTruck" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="456.50000000000006" y="231.0" />
+      <point x="703.5625" y="231.0" />
+      <point x="-42.1875" y="95.5" />
+    </edge>
+    <edge source="src.Van" target="src.Car">
+      <point x="0.0" y="-30.5" />
+      <point x="276.0" y="221.0" />
+      <point x="675.4375" y="221.0" />
+      <point x="-70.3125" y="95.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7681058495821727" x="708.0" y="161.0" />
+  <SelectedNodes>
+    <node>src.LowsidedTruck</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
